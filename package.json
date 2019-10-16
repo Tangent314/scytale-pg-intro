@@ -1,0 +1,24 @@
+{
+  "name": "scytale-pg-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tangent314/scytale-pg-intro.git"
+  },
+  "author": "Blair McLaughlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tangent314/scytale-pg-intro/issues"
+  },
+  "homepage": "https://github.com/Tangent314/scytale-pg-intro#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.12.1"
+  }
+}
